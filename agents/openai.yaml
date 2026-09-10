@@ -1,0 +1,3 @@
+interface:
+  display_name: "Lovable Safe Refactor"
+  short_description: "Audit and safely refactor legacy Lovable projects"
